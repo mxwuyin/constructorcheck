@@ -11,7 +11,7 @@ import (
 	"golang.org/x/tools/go/analysis"
 
 	"github.com/golangci/plugin-module-register/register"
-	"github.com/ming-0x0/constructorcheck"
+	"github.com/mxwuyin/constructorcheck"
 )
 
 func init() {

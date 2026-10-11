@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/ming-0x0/constructorcheck"
+	"github.com/mxwuyin/constructorcheck"
 	"golang.org/x/tools/go/analysis/analysistest"
 )
 

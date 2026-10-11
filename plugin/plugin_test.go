@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/golangci/plugin-module-register/register"
-	"github.com/ming-0x0/constructorcheck"
-	"github.com/ming-0x0/constructorcheck/plugin"
+	"github.com/mxwuyin/constructorcheck"
+	"github.com/mxwuyin/constructorcheck/plugin"
 )
 
 func TestPlugin(t *testing.T) {

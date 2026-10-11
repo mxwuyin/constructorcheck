@@ -3,7 +3,7 @@ package main
 import (
 	"golang.org/x/tools/go/analysis/singlechecker"
 
-	"github.com/ming-0x0/constructorcheck"
+	"github.com/mxwuyin/constructorcheck"
 )
 
 func main() {

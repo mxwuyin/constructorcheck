@@ -1,4 +1,4 @@
-module github.com/ming-0x0/constructorcheck
+module github.com/mxwuyin/constructorcheck
 
 go 1.27.1
 
